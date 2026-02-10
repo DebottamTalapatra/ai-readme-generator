@@ -24,7 +24,7 @@ A Python-based tool that leverages Ollama and phi3:mini model to generate struct
 1. Clone the repository:
 
 ```
-git clone https://github.com/YourUserName/repoName.git
+git clone https://github.com/DebottamTalapatra/ai-readme-generator.git
 ```
 
 2. Compile and run the project:
